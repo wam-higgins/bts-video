@@ -1,0 +1,9 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-3.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-4-clip.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-4.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-1-clip.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-1.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-2-clip.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-2.mp4 filter=lfs diff=lfs merge=lfs -text
+BTS-3-clip.mp4 filter=lfs diff=lfs merge=lfs -text
